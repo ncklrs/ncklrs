@@ -27,7 +27,7 @@ Product & Technology leader at **Robbins Research International**, where I lead 
 
 ## 🚀 Highlight Projects
 
-- [Agentic Migrations](#) - Agentic optimized migrations between marketing automation platforms such as Marketo to HubSpot.
+- [Agentic Migrations](https://github.com/ncklrs/agentic-migrations) - Agentic optimized migrations between marketing automation platforms such as Marketo to HubSpot.
 - [CheckoutCraft](#) – Stripe-optimized order forms & embeddable checkouts
 - [Copilot Agent Prompts](https://github.com/ncklrs/copilot-agent-prompts) – prompt engineering for AI copilots
 - [UTM Manager](#) – link shortening, QR tracking, and campaign attribution
