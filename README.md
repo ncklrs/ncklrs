@@ -1,4 +1,4 @@
-![Nick Jensen]([https://www.nickjensen.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5nnkq4dh%2Fproduction%2F9a25627a7efd4248b6e5ea4a21fc10f22d470b8b-215x53.png%3Frect%3D2%2C0%2C212%2C53%26w%3D200%26h%3D50%26fit%3Dmax%26auto%3Dformat&w=256&q=75](https://www.nickjensen.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5nnkq4dh%2Fproduction%2Fac78e5d382151fc6e3ed29c2a7134ec084cbc754-195x41.png%3Fw%3D195%26h%3D41%26fit%3Dmax%26auto%3Dformat&w=256&q=75) "Nick Jensen - Full Stack AI Engineer")
+![Nick Jensen](https://www.nickjensen.co/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F5nnkq4dh%2Fproduction%2Fac78e5d382151fc6e3ed29c2a7134ec084cbc754-195x41.png%3Fw%3D195%26h%3D41%26fit%3Dmax%26auto%3Dformat&w=256&q=75 "Nick Jensen - Full Stack AI Engineer")
 
 **Product Engineer | AI Engineer | Full Stack Developer | Martech Architect**  
 Building Web applications and SaaS platforms with **Next.js (App Router), Sanity, Stripe, and AI**.
