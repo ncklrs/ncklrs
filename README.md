@@ -27,10 +27,11 @@ Product & Technology leader at **Robbins Research International**, where I lead 
 
 ## 🚀 Highlight Projects
 
+- [CheckoutCraft](https://sanityshop.nickjensen.co) – Sanity CMS based e-Commerce web application with Stripe-optimized order forms & embeddable checkouts
+- [Sanity AI Image Generator](https://github.com/ncklrs/sanity-plugin-gemini-ai-images) - Generate high quality images in Sanity Studio with Gemini image (Nano Banana)
 - [Sanity Agents](https://github.com/ncklrs/sanity-agents) - Claude Code plugin for Sanity
-- [Agentic Migrations](https://github.com/ncklrs/agentic-migrations) - Agentic optimized migrations between marketing automation platforms such as Marketo to HubSpot.
-- [CheckoutCraft](#) – Sanity CMS based e-Commerce web application with Stripe-optimized order forms & embeddable checkouts
 - [Copilot Agent Prompts](https://github.com/ncklrs/copilot-agent-prompts) – prompt engineering for AI copilots
+- [Agentic Migrations](https://github.com/ncklrs/agentic-migrations) - Agentic optimized migrations between marketing automation platforms such as Marketo to HubSpot.
 - [UTM Manager](#) – link shortening, QR tracking, and campaign attribution
 
 ---
