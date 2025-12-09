@@ -11,8 +11,8 @@ Building Web applications and SaaS platforms with **Next.js (App Router), Sanity
 ## 👨‍💻 About Me
 
 I create **conversion-optimized SaaS products** that bridge engineering and marketing technology.  
-Product & Technology leader at **Robbins Research International**, where I lead martech and frontend engineering.
-Building the experience at [TonyRobbins.com](https://www.tonyrobbins.com?utm_source=github&utm_medium=readme&utm_campaign=ncklrs)
+- Product & Technology leader at **Robbins Research International**, where I lead martech and frontend engineering.
+- Building the experience at [TonyRobbins.com](https://www.tonyrobbins.com?utm_source=github&utm_medium=readme&utm_campaign=ncklrs)
 
 ---
 
