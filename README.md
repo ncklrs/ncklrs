@@ -20,7 +20,7 @@ I create **conversion-optimized SaaS products** that bridge engineering and mark
 
 - **Frontend & SaaS:** Next.js (App Router), React, Tailwind
 - **Payments & Commerce:** Stripe integrations, checkout flows, subscription systems
-- **Content & Data:** Sanity CMS, HubSpot, Salesforce, multi-tenant SaaS
+- **Content & Data:** Sanity CMS, Shopify, HubSpot, Salesforce, multi-tenant SaaS
 - **AI Engineering:** OpenAI API, Anthropic, agentic workflows, automation tooling
 - **Leadership:** Martech strategy, digital transformation, cross-functional systems
 
