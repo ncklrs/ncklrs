@@ -28,6 +28,7 @@ I create **conversion-optimized SaaS products** that bridge engineering and mark
 
 ## 🚀 Highlight Projects
 
+- [Maison - Headless Shopify](https://sanity-shopkit.vercel.app) - A production ready Nextjs application for Headless Shopify integrated wity Sanity CMS features 80+ page modules
 - [Aurora - Nextjs / Sanity CMS Template](https://sanity-aurora.vercel.app) - A production-ready Next.js 16 + Sanity template featuring 70+ page modules, embedded Sanity Studio
 - [CheckoutCraft](https://sanityshop.nickjensen.co) – Sanity CMS based e-Commerce web application with Stripe-optimized order forms & embeddable checkouts
 - [Sanity AI Image Generator](https://github.com/ncklrs/sanity-plugin-gemini-ai-images) - Generate high quality images in Sanity Studio with Gemini image (Nano Banana)
